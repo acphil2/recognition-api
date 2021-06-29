@@ -1,0 +1,9 @@
+.Tilt {
+	width: 160px;
+	height: 160px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: rgb(255,204,4);
+	background: radial-gradient(circle, rgba(255,204,4,1) 41%, rgba(255,183,53,1) 56%);
+}
